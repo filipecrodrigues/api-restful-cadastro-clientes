@@ -1,4 +1,4 @@
-package io.github.filiperodrigues.model.entity;
+package io.github.filiperodrigues.entity;
 
 
 import lombok.*;

@@ -1,7 +1,7 @@
 package io.github.filiperodrigues.controller;
 
-import io.github.filiperodrigues.model.entity.Cliente;
-import io.github.filiperodrigues.model.repository.ClienteRepository;
+import io.github.filiperodrigues.entity.Cliente;
+import io.github.filiperodrigues.repository.ClienteRepository;
 import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

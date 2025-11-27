@@ -1,6 +1,6 @@
 package io.github.filiperodrigues.controller;
 
-import io.github.filiperodrigues.controller.exeption.ApiErros;
+import io.github.filiperodrigues.exception.ApiErros;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;

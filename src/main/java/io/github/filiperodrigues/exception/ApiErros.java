@@ -1,4 +1,4 @@
-package io.github.filiperodrigues.controller.exeption;
+package io.github.filiperodrigues.exception;
 
 import lombok.Getter;
 

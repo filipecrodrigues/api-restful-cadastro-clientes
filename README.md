@@ -60,9 +60,11 @@ ou
 ##  Estrutura do Projeto
 
     src/main/java/io/github/filiperodrigues/
-     ├── controller/
      ├── config/
-     ├── model/
+     ├── controller/
+     ├── entity/
+     ├── exception/
+     ├── repository/
      └── ClientesApplication.java
 
 ------------------------------------------------------------------------
@@ -85,7 +87,7 @@ ou
 
 ``` bash
 git clone <url-do-repositorio>
-cd cadastro-clientes-fullstack
+cd api-restful-cadastro-clientes
 ```
 
 ### 2️ Rodar o projeto
